@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/reactgmailclone/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/reactgmailclone/static/js/main.8b003ec4.chunk.js",
-    "main.js.map": "/reactgmailclone/static/js/main.8b003ec4.chunk.js.map",
+    "main.js": "/reactgmailclone/static/js/main.d4123d79.chunk.js",
+    "main.js.map": "/reactgmailclone/static/js/main.d4123d79.chunk.js.map",
     "runtime-main.js": "/reactgmailclone/static/js/runtime-main.a2f46cd2.js",
     "runtime-main.js.map": "/reactgmailclone/static/js/runtime-main.a2f46cd2.js.map",
-    "static/js/2.8333a71e.chunk.js": "/reactgmailclone/static/js/2.8333a71e.chunk.js",
-    "static/js/2.8333a71e.chunk.js.map": "/reactgmailclone/static/js/2.8333a71e.chunk.js.map",
+    "static/js/2.04f6230e.chunk.js": "/reactgmailclone/static/js/2.04f6230e.chunk.js",
+    "static/js/2.04f6230e.chunk.js.map": "/reactgmailclone/static/js/2.04f6230e.chunk.js.map",
     "index.html": "/reactgmailclone/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/reactgmailclone/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.8333a71e.chunk.js.LICENSE.txt": "/reactgmailclone/static/js/2.8333a71e.chunk.js.LICENSE.txt"
+    "static/js/2.04f6230e.chunk.js.LICENSE.txt": "/reactgmailclone/static/js/2.04f6230e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a2f46cd2.js",
-    "static/js/2.8333a71e.chunk.js",
+    "static/js/2.04f6230e.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.8b003ec4.chunk.js"
+    "static/js/main.d4123d79.chunk.js"
   ]
 }
